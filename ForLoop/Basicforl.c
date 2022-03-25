@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+void main( )
 {
 	int i=0;
 	clrscr();
@@ -8,5 +8,5 @@ void main()
 	{
 		printf("%d\n",i);
 	}
-	getch();
+	getch( );
 }
